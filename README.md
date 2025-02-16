@@ -1,0 +1,24 @@
+# 💫 About Me:
+🚀 Hi, I’m Patricia Morales, a data strategist and SQL with over 4 years of experience transforming raw data into actionable insights. I specialize in SQL, Python, and Power BI, creating end-to-end data solutions that drive efficiency, innovation, and measurable results.<br><br>🔍 What I do:<br>I leverage advanced statistical techniques like forecasting, time series analysis, multivariate modeling, and regression analysis to uncover trends, predict outcomes, and optimize decision-making. My expertise extends to machine learning, where I design and implement models for predictive analytics, classification, and optimization. Whether it’s building interactive dashboards, cleaning and transforming data, or deploying ML models, I thrive on solving complex problems with data-driven solutions.<br><br>🎓 Currently pursuing a PhD in Strategic Planning and Technology Management, I bring a unique blend of technical expertise and strategic vision. My research focuses on aligning data insights with long-term business goals, ensuring that every analysis I deliver has a tangible impact on organizational success.<br><br>🏎️ With 12 years in the automotive industry, I’ve honed my skills in high-pressure, fast-paced environments. I’ve used data to optimize supply chains, improve operational efficiency, and drive strategic decision-making, delivering measurable results that have saved costs and unlocked new opportunities.<br><br>💥 Why me?<br><br>SQL mastery: I design and optimize complex queries to extract, transform, and analyze large datasets with precision.<br><br>Statistical expertise: Proficient in forecasting, time series, multivariate models, and machine learning, I turn data into actionable predictions.<br><br>Proven track record: My projects have delivered cost savings, operational improvements, and data-driven growth strategies.<br><br>Strategic mindset: I connect data insights to business objectives, ensuring every analysis drives real-world impact.<br><br>Adaptable problem-solver: I thrive in dynamic environments, delivering results under tight deadlines and evolving requirements.<br><br>🌍 Let’s collaborate on projects where data drives innovation. Whether it’s building predictive models, optimizing processes, or creating compelling visualizations,<br> I’m ready to bring my expertise to the table and make a difference.<br>📫 Reach out:<br>patricia-morales-52290b122 |<br>patricia.morales01@upaep.edu.mx
+
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/patricia_261000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricia-morales-52290b122) 
+
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Patricia261000&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Patricia261000&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricia261000&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Patricia261000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Patricia261000&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
