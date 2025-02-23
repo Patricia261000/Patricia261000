@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🚀 Hi, I’m Patricia Morales, a data strategist and SQL expert with over 4 years of experience transforming raw data into actionable insights. Specializing in SQL, Python, and Power BI, I create end-to-end data solutions that drive innovation, efficiency, and measurable results.<br><br>🔍 I apply advanced statistical techniques like forecasting, regression analysis, and machine learning to uncover trends, predict outcomes, and optimize decision-making. Whether it's building interactive dashboards or deploying ML models, I thrive on solving complex problems with data-driven solutions.<br><br>🎓 Currently pursuing a PhD in Strategic Planning and Technology Management, I blend technical expertise with strategic vision, aligning data insights with long-term business goals.<br><br>🏎️ With 12 years in the automotive industry, I’ve optimized supply chains, improved efficiency, and driven cost-saving decisions in high-pressure environments.<br>
-💥 Why me?<br><br> 
+💥 Why me?<br>
 * SQL skills: I create and improve queries to manage big datasets efficiently.
 * Data analysis: Skilled in predictive analytics to turn data into useful insights.
 * Results-driven: I’ve achieved cost savings, better operations, and smart data strategies.
